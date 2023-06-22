@@ -1,0 +1,42 @@
+2021-03-09 16:18:21,026 | ContentAnalyzer | INFO | **************************************
+2021-03-09 16:18:21,026 | ContentAnalyzer | INFO | ADP API Sample tool starting...
+2021-03-09 16:18:21,026 | ContentAnalyzer | INFO | Logs can be found in the current directory, processing.log
+2021-03-09 16:18:22,155 | ContentAnalyzer | INFO | Successfully got the token 3eKu0HVCE3ofu0YlTx9dyJ8vMrCP5iVZNpoxWqMF
+2021-03-09 16:18:22,157 | ContentAnalyzer | INFO | Successfully generate ums token 3eKu0HVCE3ofu0YlTx9dyJ8vMrCP5iVZNpoxWqMF, continue
+2021-03-09 16:18:22,157 | ContentAnalyzer | INFO | Uploading files
+2021-03-09 16:18:22,490 | ContentAnalyzer | INFO | ums token provided is valid
+2021-03-09 16:18:22,492 | ContentAnalyzer | INFO | Uploading /Users/xiaoying.gao@ibm.com/Desktop/SmartPages/code_local/testing/input/Police Report 6.pdf 
+2021-03-09 16:18:29,274 | ContentAnalyzer | INFO | Uploading /Users/xiaoying.gao@ibm.com/Desktop/SmartPages/code_local/testing/input/Invoice Page 1.pdf 
+2021-03-09 16:18:35,622 | ContentAnalyzer | INFO | Upload status reported in output.json
+2021-03-09 16:18:35,622 | ContentAnalyzer | INFO | Done uploading 2 files
+2021-03-09 16:18:35,622 | ContentAnalyzer | INFO | Ready to download output files...
+2021-03-09 16:18:35,963 | ContentAnalyzer | INFO | ums token provided is valid
+2021-03-09 16:18:35,963 | ContentAnalyzer | INFO | Loop 1
+2021-03-09 16:18:35,963 | ContentAnalyzer | INFO | Checking status of analyzerId: 21e3b3c0-8136-11eb-a5f0-adf91eac12ae, filename: Police Report 6.pdf
+2021-03-09 16:18:38,686 | ContentAnalyzer | INFO | Checking status of analyzerId: 25d957f0-8136-11eb-a591-cdefc0869c92, filename: Invoice Page 1.pdf
+2021-03-09 16:18:46,966 | ContentAnalyzer | INFO | Loop 2
+2021-03-09 16:18:46,966 | ContentAnalyzer | INFO | Checking status of analyzerId: 21e3b3c0-8136-11eb-a5f0-adf91eac12ae, filename: Police Report 6.pdf
+2021-03-09 16:18:51,980 | ContentAnalyzer | INFO | Checking status of analyzerId: 25d957f0-8136-11eb-a591-cdefc0869c92, filename: Invoice Page 1.pdf
+2021-03-09 16:19:00,317 | ContentAnalyzer | INFO | Loop 3
+2021-03-09 16:19:00,318 | ContentAnalyzer | INFO | Checking status of analyzerId: 21e3b3c0-8136-11eb-a5f0-adf91eac12ae, filename: Police Report 6.pdf
+2021-03-09 16:19:03,527 | ContentAnalyzer | INFO | Checking status of analyzerId: 25d957f0-8136-11eb-a591-cdefc0869c92, filename: Invoice Page 1.pdf
+2021-03-09 16:19:11,649 | ContentAnalyzer | INFO | Loop 4
+2021-03-09 16:19:11,649 | ContentAnalyzer | INFO | Checking status of analyzerId: 21e3b3c0-8136-11eb-a5f0-adf91eac12ae, filename: Police Report 6.pdf
+2021-03-09 16:19:14,944 | ContentAnalyzer | INFO | Checking status of analyzerId: 25d957f0-8136-11eb-a591-cdefc0869c92, filename: Invoice Page 1.pdf
+2021-03-09 16:19:23,235 | ContentAnalyzer | INFO | Loop 5
+2021-03-09 16:19:23,236 | ContentAnalyzer | INFO | Checking status of analyzerId: 21e3b3c0-8136-11eb-a5f0-adf91eac12ae, filename: Police Report 6.pdf
+2021-03-09 16:19:26,084 | ContentAnalyzer | INFO | Checking status of analyzerId: 25d957f0-8136-11eb-a591-cdefc0869c92, filename: Invoice Page 1.pdf
+2021-03-09 16:19:29,489 | ContentAnalyzer | INFO | Downloading JSON of analyzerId: 25d957f0-8136-11eb-a591-cdefc0869c92
+2021-03-09 16:19:38,100 | ContentAnalyzer | INFO | Loop 6
+2021-03-09 16:19:38,100 | ContentAnalyzer | INFO | Checking status of analyzerId: 21e3b3c0-8136-11eb-a5f0-adf91eac12ae, filename: Police Report 6.pdf
+2021-03-09 16:19:42,487 | ContentAnalyzer | INFO | Downloading JSON of analyzerId: 21e3b3c0-8136-11eb-a5f0-adf91eac12ae
+2021-03-09 16:19:46,754 | ContentAnalyzer | INFO | Done downloading all output files to your output_directory_path
+2021-03-09 16:19:46,754 | ContentAnalyzer | INFO | Download status reported in output.json
+2021-03-09 16:19:46,754 | ContentAnalyzer | INFO | Deleting files on the server
+2021-03-09 16:19:47,110 | ContentAnalyzer | INFO | ums token provided is valid
+2021-03-09 16:19:53,595 | ContentAnalyzer | INFO | Done deleting files on the server
+2021-03-09 16:19:53,595 | ContentAnalyzer | INFO | Delete status reported in output.json
+2021-03-09 16:19:53,595 | ContentAnalyzer | INFO | Updating report
+2021-03-09 16:19:53,596 | ContentAnalyzer | INFO | Done updating report in the current directory, output.json
+2021-03-09 16:19:53,596 | ContentAnalyzer | INFO | ADP API Sample tool ended. Processing time took 92 seconds, Disclaimer: This includes time to upload, download and delete and has nothing to do with actual processing time.
+

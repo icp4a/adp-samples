@@ -7,4 +7,10 @@ This repository contains multiple code samples for IBM Automation Document Proce
 - [Automation Document Processing API](/Extraction/README.md)<BR>
   This sample is implemented as a JavaScript NodeJS application that demonstrates the interactions with the Automation Document Processing REST API.  This sample interacts with the document processing engine to retrieve the ontology , submit a document for processing and retrieve the extracted results. 
 
+- [Python API Samples](/PythonAPISamples) <BR>
+  This sample is a python script package to demostrate the Aumotation Document Processing Rest APIs, including file uploading, processing status checking, output downloading and resource deleting.
+
+- [Shell Sample for Automation Document Processing API](/ADPAPISamples/Shell/) <BR>
+  This sample is a shell script package to demostrate the Aumotation Document Processing Content Analyzer Public APIs, including file uploading, processing status checking, output downloading and resource deleting.
+
 See the [License](LICENSE.txt) for restrictions on the use of this product
